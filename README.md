@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
+[Kodluyoruz](https://kodluyoruz.org) Eğitimi kapsamında açtığım ilk repo.
 İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![Odev Gorseli](https://github.com/taspatlatanlar/kodluyoruzilkrepo/blob/main/kodluyoruzilkrepo.PNG)
